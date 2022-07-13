@@ -5,11 +5,11 @@ from pyrogram.errors import FloodWait
 import asyncio
 
 
-FROM = -10012345678
-TO = -10012345678
+FROM = 
+TO = 
 PYRO_SESSION = ""
-API_ID = 1234
-API_HASH = "abcd1234edfghijkl"
+API_ID = 
+API_HASH = ""
 
 user = Client(
     PYRO_SESSION,
